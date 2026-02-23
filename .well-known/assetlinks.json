@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.catchjobs.android",
+      "sha256_cert_fingerprints": [
+        "62:2D:B1:45:71:F3:58:AC:2B:5B:DB:AF:6A:9F:24:F5:FB:15:97:E8:1E:67:72:58:E4:AE:08:E7:20:B9:AA:E3"
+      ]
+    }
+  }
+]
