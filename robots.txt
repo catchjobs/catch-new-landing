@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /drafts/
+Disallow: /assets/files/
+Disallow: deeplink.html
+
+Sitemap: https://catchjobs.github.io/sitemap.xml
